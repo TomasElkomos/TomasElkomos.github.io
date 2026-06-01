@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2fcf6614.css",
-    "main.js": "/static/js/main.7157fd8c.js",
+    "main.js": "/static/js/main.269cb063.js",
     "static/css/64.646b6377.chunk.css": "/static/css/64.646b6377.chunk.css",
     "static/js/64.dfbe5e9d.chunk.js": "/static/js/64.dfbe5e9d.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -54,7 +54,6 @@
     "static/media/PicsArt_1433422184293.jpg": "/static/media/PicsArt_1433422184293.84695718fa8f415b591a.jpg",
     "static/media/PicsArt_1420657074232.jpg": "/static/media/PicsArt_1420657074232.77b43f6287cefa75ead4.jpg",
     "static/media/IMG20250323193023.jpg": "/static/media/IMG20250323193023.583887da62f7cc33214d.jpg",
-    "static/media/PicsArt_1422191079339.jpg": "/static/media/PicsArt_1422191079339.2f4f0d489219ab6a0ee7.jpg",
     "static/media/20150325_145719.jpg": "/static/media/20150325_145719.66ccf2c3d6d5d909b270.jpg",
     "static/media/C360_2014-12-03-11-14-38-467.jpg": "/static/media/C360_2014-12-03-11-14-38-467.7705cd306c7773674da2.jpg",
     "static/media/C360_2014-12-03-11-14-26-498.jpg": "/static/media/C360_2014-12-03-11-14-26-498.5bf3463ab0c0611d5cf6.jpg",
@@ -159,7 +158,7 @@
     "static/media/figma.svg": "/static/media/figma.2c2c9d7ff067a3272fbcb7e4700d15a6.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.2fcf6614.css.map": "/static/css/main.2fcf6614.css.map",
-    "main.7157fd8c.js.map": "/static/js/main.7157fd8c.js.map",
+    "main.269cb063.js.map": "/static/js/main.269cb063.js.map",
     "64.646b6377.chunk.css.map": "/static/css/64.646b6377.chunk.css.map",
     "64.dfbe5e9d.chunk.js.map": "/static/js/64.dfbe5e9d.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -167,6 +166,6 @@
   },
   "entrypoints": [
     "static/css/main.2fcf6614.css",
-    "static/js/main.7157fd8c.js"
+    "static/js/main.269cb063.js"
   ]
 }
